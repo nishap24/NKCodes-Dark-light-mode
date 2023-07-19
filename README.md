@@ -52,6 +52,11 @@ Customizable Dark/Light mode feature for your website. Adjust icons, colors, and
 
 5. Lightweight: Minimalistic code ensures fast loading and smooth functionality.
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eacaa684-bb9e-41fb-80e0-c36ea86e74dc/deploy-status)](https://app.netlify.com/sites/kanasu-dark-or-light-mode/deploys)
+
+
 ## Contributing
 
 Contributions are always welcome!
